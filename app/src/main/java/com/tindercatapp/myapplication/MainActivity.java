@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         al.add("c++");
         al.add("css");
         al.add("javascript");
+// ooohoooo bad stuff
 
         arrayAdapter = new ArrayAdapter<>(this, R.layout.item, R.id.helloText, al );
 
